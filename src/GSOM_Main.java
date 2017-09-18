@@ -1,6 +1,6 @@
 /**
- * Created by Qi Li on 2017-09-02.
- * For the paper of non-linear dimensionality reduction of geostatistical simulation using GSOM
+ * Created by Q. Li on 2017-09-02.
+ * 
  */
 
 import java.io.FileNotFoundException;
