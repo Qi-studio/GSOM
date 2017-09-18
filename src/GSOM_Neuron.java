@@ -1,5 +1,5 @@
 /**
- * Created by Qi Li on 2017-08-31.
+ * Created by Q. Li on 2017-08-31.
  */
 
 import java.util.stream.IntStream;
